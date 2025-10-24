@@ -3,6 +3,9 @@
 
 A simple, responsive task manager built with **Expo + TypeScript**.
 
+watch demo video via this link:
+https://www.linkedin.com/feed/update/urn:li:activity:7387457741855846400/
+
 ## ✨ Features
 
 - ✅ Add tasks  
@@ -27,7 +30,7 @@ A simple, responsive task manager built with **Expo + TypeScript**.
 
 1. Clone the repository:
    ```bash
-   git remote add origin https://github.com/KhaledAhmedA/Chapter-One---Task-Manager.git
+
    git clone https://github.com/KhaledAhmedA/Chapter-One---Task-Manager.git
    
    cd TaskManagerApp
@@ -39,5 +42,10 @@ A simple, responsive task manager built with **Expo + TypeScript**.
     Press a for Android
 
     Or scan QR code in Expo Go
+
+
+    Best Regards, 
+    Khaled Ahmed
+    https://khaled-web.vercel.app/
 
     
